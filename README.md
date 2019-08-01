@@ -1,6 +1,6 @@
 # Business_theme
 First steps in HTML/CSS-coding.<br>
-*"To create SECTION or DIV: that is the question!"*<br>
+*"Hmm... SECTION or DIV?"*<br>
 
 https://github.com/Y4Rick/Business_theme - Code style!
 
